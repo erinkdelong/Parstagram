@@ -27,6 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 
 ![ezgif com-video-to-gif-5](https://user-images.githubusercontent.com/73408261/117528117-6c743b80-af85-11eb-8a0e-6555685f53a9.gif)
+![ezgif com-video-to-gif-5](https://user-images.githubusercontent.com/73408261/117528117-6c743b80-af85-11eb-8a0e-6555685f53a9.gif)
 
 
 
